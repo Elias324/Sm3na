@@ -1,6 +1,6 @@
-token=NTQzMjM0NzI4NDIyMDE0OTg3.Xat-9Q.L1Y1n1CHA_3ePs0_vj_ZvN2eSks
-owner=475449796132601887
-prefix=!
-game=Elias
+token= NTQzMjM0NzI4NDIyMDE0OTg3.Xat-9Q.L1Y1n1CHA_3ePs0_vj_ZvN2eSks
+owner= 475449796132601887
+prefix= !
+game= Elias
 stayinchannel=true
 songinstatus=false
